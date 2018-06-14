@@ -1,3 +1,5 @@
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+
 /**
  * Function: (这里用一句话描述这个类的作用)
  *
@@ -7,7 +9,6 @@
  */
 public class Test {
     public static void main(String[] args) {
-        String a = "klll";
-        System.out.println(a);
+        System.out.println("aaaaaa");
     }
 }
